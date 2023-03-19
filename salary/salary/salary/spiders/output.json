@@ -1,0 +1,771 @@
+[
+    {
+        "data": {
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/anu-college-of-engineering-and-computer-science/50492"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$58,000"
+            },
+            "major1": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$37,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/australian-catholic-university/29020"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$120,000"
+            },
+            "major1": {
+                "salary_type": "MBA",
+                "sample_salary": "$115,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/australian-graduate-school-of-management/15614"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$186,000"
+            },
+            "major1": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$170,000"
+            },
+            "major2": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$126,000"
+            },
+            "major3": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$118,000"
+            },
+            "major4": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$92,000"
+            },
+            "major5": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$78,000"
+            },
+            "major6": {
+                "salary_type": "MBA",
+                "sample_salary": "$171,000"
+            },
+            "major7": {
+                "salary_type": "Executive MBA",
+                "sample_salary": "$123,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/australian-graduate-school-of-management/26804"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "MBA",
+                "sample_salary": "$42,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/australian-institute-of-business/50977"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$76,000"
+            },
+            "major1": {
+                "salary_type": "Sales & Business Development",
+                "sample_salary": "$73,000"
+            },
+            "major2": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$71,000"
+            },
+            "major3": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$62,000"
+            },
+            "major4": {
+                "salary_type": "Programme & Project Management",
+                "sample_salary": "$59,000"
+            },
+            "major5": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$55,000"
+            },
+            "major6": {
+                "salary_type": "MBA",
+                "sample_salary": "$78,000"
+            },
+            "major7": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$70,000"
+            },
+            "major8": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$64,000"
+            },
+            "major9": {
+                "salary_type": "Masters of Arts",
+                "sample_salary": "$60,000"
+            },
+            "major10": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$58,000"
+            },
+            "major11": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$57,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/australian-national-university/26504"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$146,000"
+            },
+            "major1": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$69,000"
+            },
+            "major2": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$67,000"
+            },
+            "major3": {
+                "salary_type": "Sales & Business Development",
+                "sample_salary": "$62,000"
+            },
+            "major4": {
+                "salary_type": "MBA",
+                "sample_salary": "$80,000"
+            },
+            "major5": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$60,000"
+            },
+            "major6": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$57,000"
+            },
+            "major7": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$51,000"
+            },
+            "major8": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$32,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/central-queensland-university/27698"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$68,000"
+            },
+            "major1": {
+                "salary_type": "Consulting, Accounting & Professional Services",
+                "sample_salary": "$38,000"
+            },
+            "major2": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$83,000"
+            },
+            "major3": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$61,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/certified-practicing-accountants-australia/29960"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Consulting, Accounting & Professional Services",
+                "sample_salary": "$86,000"
+            },
+            "major1": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$80,000"
+            },
+            "major2": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$78,000"
+            },
+            "major3": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$58,000"
+            },
+            "major4": {
+                "salary_type": "Executive Masters",
+                "sample_salary": "$86,000"
+            },
+            "major5": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$80,000"
+            },
+            "major6": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$78,000"
+            },
+            "major7": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$66,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/cfa-institute/24193"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$91,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/charles-darwin-university/53445"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$147,000"
+            },
+            "major1": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$134,000"
+            },
+            "major2": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$117,000"
+            },
+            "major3": {
+                "salary_type": "Programme & Project Management",
+                "sample_salary": "$93,000"
+            },
+            "major4": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$75,000"
+            },
+            "major5": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$71,000"
+            },
+            "major6": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$127,000"
+            },
+            "major7": {
+                "salary_type": "MBA",
+                "sample_salary": "$106,000"
+            },
+            "major8": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$84,000"
+            },
+            "major9": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$80,000"
+            },
+            "major10": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$68,000"
+            },
+            "major11": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$47,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/charles-sturt-university/14356"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Human Resources & Recruiting",
+                "sample_salary": "$80,000"
+            },
+            "major1": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$79,000"
+            },
+            "major2": {
+                "salary_type": "Media, Communication & Advertising",
+                "sample_salary": "$78,000"
+            },
+            "major3": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$77,000"
+            },
+            "major4": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$66,000"
+            },
+            "major5": {
+                "salary_type": "Programme & Project Management",
+                "sample_salary": "$64,000"
+            },
+            "major6": {
+                "salary_type": "MBA",
+                "sample_salary": "$119,000"
+            },
+            "major7": {
+                "salary_type": "Executive Masters",
+                "sample_salary": "$106,000"
+            },
+            "major8": {
+                "salary_type": "BBA",
+                "sample_salary": "$90,000"
+            },
+            "major9": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$70,000"
+            },
+            "major10": {
+                "salary_type": "Masters in Management",
+                "sample_salary": "$61,000"
+            },
+            "major11": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$58,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/curtin-university/14406"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$99,000"
+            },
+            "major1": {
+                "salary_type": "Programme & Project Management",
+                "sample_salary": "$92,000"
+            },
+            "major2": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$86,000"
+            },
+            "major3": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$77,000"
+            },
+            "major4": {
+                "salary_type": "Architecture, Real Estate & Design jobs",
+                "sample_salary": "$70,000"
+            },
+            "major5": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$69,000"
+            },
+            "major6": {
+                "salary_type": "MBA",
+                "sample_salary": "$107,000"
+            },
+            "major7": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$72,000"
+            },
+            "major8": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$71,000"
+            },
+            "major9": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$68,000"
+            },
+            "major10": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$67,000"
+            },
+            "major11": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$42,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/deakin-university/15590"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$86,000"
+            },
+            "major1": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$50,000"
+            },
+            "major2": {
+                "salary_type": "Sales & Business Development",
+                "sample_salary": "$47,000"
+            },
+            "major3": {
+                "salary_type": "Public Sector & Not For Profit",
+                "sample_salary": "$44,000"
+            },
+            "major4": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$41,000"
+            },
+            "major5": {
+                "salary_type": "Education & Research",
+                "sample_salary": "$34,000"
+            },
+            "major6": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$60,000"
+            },
+            "major7": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$57,000"
+            },
+            "major8": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$48,000"
+            },
+            "major9": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$46,000"
+            },
+            "major10": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$39,000"
+            },
+            "major11": {
+                "salary_type": "Masters of Arts",
+                "sample_salary": "$28,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/edith-cowan-university/23336"
+            }
+        }
+    },
+    {
+        "data": {
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/fbi-fashion-college/44927"
+            }
+        }
+    },
+    {
+        "data": {
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/federation-university-australia/30016"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$58,000"
+            },
+            "major1": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$78,000"
+            },
+            "major2": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$37,000"
+            },
+            "major3": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$27,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/flinders-university/39009"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Legal & Paralegal",
+                "sample_salary": "$72,000"
+            },
+            "major1": {
+                "salary_type": "Consulting, Accounting & Professional Services",
+                "sample_salary": "$69,000"
+            },
+            "major2": {
+                "salary_type": "Sales & Business Development",
+                "sample_salary": "$64,000"
+            },
+            "major3": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$63,000"
+            },
+            "major4": {
+                "salary_type": "Human Resources & Recruiting",
+                "sample_salary": "$52,000"
+            },
+            "major5": {
+                "salary_type": "Support Functions & Translation",
+                "sample_salary": "$49,000"
+            },
+            "major6": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$69,000"
+            },
+            "major7": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$62,000"
+            },
+            "major8": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$58,000"
+            },
+            "major9": {
+                "salary_type": "MBA",
+                "sample_salary": "$57,000"
+            },
+            "major10": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$53,000"
+            },
+            "major11": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$47,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/griffith-university/14836"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$36,000"
+            },
+            "major1": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$36,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/holmesglen-institute/42007"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$98,000"
+            },
+            "major1": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$80,000"
+            },
+            "major2": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$70,000"
+            },
+            "major3": {
+                "salary_type": "Consulting, Accounting & Professional Services",
+                "sample_salary": "$41,000"
+            },
+            "major4": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$88,000"
+            },
+            "major5": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$74,000"
+            },
+            "major6": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$67,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/institute-of-chartered-accountants-australia/24707"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$47,000"
+            },
+            "major1": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$45,000"
+            },
+            "major2": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$29,000"
+            },
+            "major3": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$27,000"
+            },
+            "major4": {
+                "salary_type": "Support Functions & Translation",
+                "sample_salary": "$20,000"
+            },
+            "major5": {
+                "salary_type": "Human Resources & Recruiting",
+                "sample_salary": "$19,000"
+            },
+            "major6": {
+                "salary_type": "Masters in Science",
+                "sample_salary": "$55,000"
+            },
+            "major7": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$40,000"
+            },
+            "major8": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$29,000"
+            },
+            "major9": {
+                "salary_type": "MBA",
+                "sample_salary": "$28,000"
+            },
+            "major10": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$25,000"
+            },
+            "major11": {
+                "salary_type": "Masters in Management",
+                "sample_salary": "$7,900"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/james-cook-university/29095"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Compliance, AML, KYC & Monitoring",
+                "sample_salary": "$149,000"
+            },
+            "major1": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$86,000"
+            },
+            "major2": {
+                "salary_type": "Marketing, Product & Communications",
+                "sample_salary": "$79,000"
+            },
+            "major3": {
+                "salary_type": "Sales & Business Development",
+                "sample_salary": "$64,000"
+            },
+            "major4": {
+                "salary_type": "Public Sector & Not For Profit",
+                "sample_salary": "$58,000"
+            },
+            "major5": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$53,000"
+            },
+            "major6": {
+                "salary_type": "Bachelor of Science",
+                "sample_salary": "$64,000"
+            },
+            "major7": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$53,000"
+            },
+            "major8": {
+                "salary_type": "Other Degree",
+                "sample_salary": "$52,000"
+            },
+            "major9": {
+                "salary_type": "Bachelor (Other)",
+                "sample_salary": "$51,000"
+            },
+            "major10": {
+                "salary_type": "Master (Other)",
+                "sample_salary": "$37,000"
+            },
+            "major11": {
+                "salary_type": "Bachelor of Arts",
+                "sample_salary": "$35,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/la-trobe-university/23852"
+            }
+        }
+    },
+    {
+        "data": {
+            "major0": {
+                "salary_type": "Human Resources & Recruiting",
+                "sample_salary": "$122,000"
+            },
+            "major1": {
+                "salary_type": "Executive Management & Change",
+                "sample_salary": "$115,000"
+            },
+            "major2": {
+                "salary_type": "IT & Software Development",
+                "sample_salary": "$102,000"
+            },
+            "major3": {
+                "salary_type": "Financial Services",
+                "sample_salary": "$101,000"
+            },
+            "major4": {
+                "salary_type": "Finance Control & Strategy",
+                "sample_salary": "$84,000"
+            },
+            "major5": {
+                "salary_type": "MBA",
+                "sample_salary": "$110,000"
+            },
+            "major6": {
+                "salary_type": "Masters in Management",
+                "sample_salary": "$84,000"
+            },
+            "major7": {
+                "salary_type": "Masters in Finance",
+                "sample_salary": "$78,000"
+            },
+            "univ": {
+                "link": "https://www.emolument.com/salary-reports/universities/macquarie-graduate-school-of-management/49660"
+            }
+        }
+    }
+]
